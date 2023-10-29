@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B03ED66A-49E2-4419-A3E2-C5A4CDB51004}</ProjectGuid>
+    <ProjectGuid>{F342088D-AEA2-47C1-8DF9-40C82DF33AF4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.KomarovMA.Sprint3.Task0.V24.Lib</RootNamespace>
-    <AssemblyName>Tyuiu.KomarovMA.Sprint3.Task0.V24.Lib</AssemblyName>
+    <RootNamespace>Tyuiu.KomarovMA.Sprint3.Task6.V10.Lib</RootNamespace>
+    <AssemblyName>Tyuiu.KomarovMA.Sprint3.Task6.V10.Lib</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -39,8 +39,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="tyuiu.cources.programming.interfaces, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
+    <Reference Include="tyuiu.cources.programming.interfaces">
       <HintPath>..\..\..\VAJNOE\tyuiu.cources.programming.interfaces.dll</HintPath>
     </Reference>
   </ItemGroup>
